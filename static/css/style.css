@@ -1,0 +1,10 @@
+body{
+    background-color: #800080;
+}
+.container{
+    max-width: 600px;
+}
+
+.kard {
+    margin-top: 20px;
+}
